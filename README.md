@@ -1,7 +1,7 @@
 # bluelab
 
 - master
-  - backend
+  - backend || 
       app -> back-end application with node
-  - frontend
+  - frontend || 
       app-react -> front-end application
