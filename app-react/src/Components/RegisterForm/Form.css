@@ -1,0 +1,41 @@
+form.main-form {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+}
+
+form.main-form input {
+  padding: 10px;
+  font-size: 12pt;
+}
+
+.Form-Register-User {
+  width: 80%;
+}
+
+textarea:focus, input:focus {
+  box-shadow: none!important;
+  outline: none!important;
+}
+
+input[type=number]::-webkit-inner-spin-button { 
+  -webkit-appearance: none;
+  
+}
+input[type=number] { 
+ -moz-appearance: textfield;
+ appearance: textfield;
+
+}
+
+input {
+  background-color: #efefef;
+  border-width: 0;
+  margin-top: 2px;
+}
+
+input[type="submit"] {
+  font-weight: 600;
+  color: #fff;
+  background-color: #00bcd4;
+}
