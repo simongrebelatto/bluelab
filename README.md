@@ -2,6 +2,6 @@
 
 - master
   - backend || 
-      app -> back-end application with node
+      app -> back-end application with nodejs
   - frontend || 
-      app-react -> front-end application
+      app-react -> front-end application with reactjs
